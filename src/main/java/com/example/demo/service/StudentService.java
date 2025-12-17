@@ -1,8 +1,8 @@
 package com.example.demo.service;
 
-import org.springframework.steeotype.Service;
+import com.example.entity.Stuentity;
 
-@Service
-public class StudentService{
-    
+@service
+public class Stuservice{
+             
 }
